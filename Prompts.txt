@@ -1,0 +1,13 @@
+The following AI prompts were used in the course of this project:
+
+1. What should be some of the features in a mobile app for hobbyist fishermen?
+
+2. Go through this site and give me the steps to invoke the Fishial API: https://github.com/fishial/devapi/blob/main/tutor.adoc
+
+3. How can we download offline maps in Android?
+
+4. What are some of the open source resources that allow bulk free download of map tiles? Also give me detailed steps for them.
+
+5. How can we make a compass in Android using the accelerometer sensor in the phone?
+
+6. My app crashes if I dismiss the Google Sign-in popup. I am using Firebase Authentication for Google OAuth. How can I elegantly handle this case?
